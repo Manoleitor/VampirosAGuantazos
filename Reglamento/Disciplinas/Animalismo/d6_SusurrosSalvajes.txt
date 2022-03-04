@@ -1,0 +1,7 @@
+Susurros Salvajes
+    Permite hablar con los animales
+    Permite convocar animales en las cercanías
+    Coste: 1 control de Enardecimiento permite 1 invocación y comunicación ilimitada por 1 escena
+    Invocar animales -> Animalismo + Carisma
+    Pedir un servicio -> Persuasión, Supervivencia o Animalismo + Carisma
+    Duración: Una escena

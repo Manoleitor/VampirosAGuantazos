@@ -1,0 +1,11 @@
+Colmena no-Muerta
+    Requisitos: Ofuscación d6+, Animalismo d8+
+    Permite afectar a enjambres de insectos, como moscas o cucarachas
+    Muy común entre los Nosferatu
+    Sin coste
+    Permite esconder el enjambre en los orificios del propio cuerpo haciéndolo indetectable a nada que sea como rayos-X o similar o mejor
+    Los enjambres hacen poco daño en combate
+    <<Salud 5, reserva de 8 dados para defenderse>>
+    <<Reciben daño superficial por pelea, llamas e insecticidas producen daño agravado>>
+    Se pueden usar para espiar, como distracción (-2 a cualquier tirada para una sola persona acosada por el enjambre) o para intimidar a los mortales (+2 a intimidar). 
+    Se aceptan usos creativos

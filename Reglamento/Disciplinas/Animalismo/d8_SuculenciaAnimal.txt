@@ -1,0 +1,8 @@
+Suculencia Animal
+    El vampiro extrae más sustento de la sangre animal y, si ese animal es su Familiar, puede obtener aún más
+    Sin coste
+    Alimentarse de los animales sacia un nivel de Ansia más
+    La potencia de la sangre cuenta como dos rangos menor a la hora de obtener sustento de los animales
+    Consumir al propio Familiar calma toda el ansia del Vampiro dejándolo Satisfecho hasta que falle el pago de un Peaje.
+        Si se consume al Familiar, aumenta en un paso el rasgo que fuese más característico del Familiar hasta la próxima alimentación o quedar Famélico
+    Duración: Pasiva

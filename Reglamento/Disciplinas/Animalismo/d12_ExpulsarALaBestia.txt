@@ -1,0 +1,10 @@
+Expulsar a la Bestia
+    El vampiro puede transferir a otro su bestia en el momento del frenesí
+    Coste: 1 Control de Enardecimiento
+    Astucia o Animalismo vs Espíritu
+    En lugar de tirar Espíritu para un Control de Frenesí se tira Astucia o Animalismo contra el Espíritu del objetivo.
+    Con un fallo el usuario entra en frenesí
+    Con un éxito el objetivo experimenta el frenesí en lugar del usuario
+    Puede transferir varios frenesíes a varios igual número de objetivos
+    No puede transferir Frenesí de Hambre
+    Duración: Lo que dure el frenesí

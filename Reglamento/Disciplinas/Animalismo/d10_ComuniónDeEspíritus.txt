@@ -1,0 +1,12 @@
+Comunión de Espíritus
+    El vampiro transfiere su mente a un animal mientras su propio cuerpo permanece en letargo
+    Coste: 1 Peaje si el objetivo no es el Familiar
+    Sistema: tirada de Animalismo
+    Con un éxito se puede habitar el cuerpo del animal durante una escena, 
+        con un anumento la duración es indefinida.
+    Si el animal ve la luz del sol, el Vampiro debe realizar un Control de Frenesí Cobarde.
+    Si el cuerpo del vampiro sufre daño el trance termina.
+    La muerte del animal poseído finaliza el trance
+        y el vampiro recibe una herida Agravada
+    Si la duración es indefinida el vampiro sigue necesitando dormir
+    Duración: 1 escena o indefinido

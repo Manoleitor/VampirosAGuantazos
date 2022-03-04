@@ -1,0 +1,6 @@
+Control Animal
+    El vampiro puede controlar grupos de animales con un simple gesto, que le obedecerán al punto, incluso sacrificándose
+    Coste: 2 Controles de Enardecimiento
+    Animalismo + Carisma vs naturaleza de los animales y orden dada
+    Con un éxito se puede comandar a una bandada de cuervos que busque a un individuo (con medios para identificarlo), con un aumento se puede ordenar a una jauría de perros que ataque de forma suicida
+    Duración: Una sola escena o hasta que se cumpla la orden

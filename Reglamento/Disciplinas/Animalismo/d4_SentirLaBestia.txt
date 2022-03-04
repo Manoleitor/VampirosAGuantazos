@@ -1,0 +1,9 @@
+· Sentir la bestia
+    Se puede sentir la bestia presente en el objetivo
+    Sin coste
+    Espíritu + Animalismo vs Espíritu
+    +2 a Notar para percibir el nivel de hostilidad de un objetivo
+    Se puede usar de forma pasiva o activa
+    Con un éxito se determina si el objetivo posee una bestia sobrenatural
+    Aumento se recibe información sobre el tipo exacto de criatura así como su nivel de ansia o rabia
+    Duración: Pasiva

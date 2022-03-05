@@ -1,7 +1,10 @@
 Susurros Salvajes
+    Requisito: Animalismo d6+
     Permite hablar con los animales
     Permite convocar animales en las cercanías
-    Coste: 1 control de Enardecimiento permite 1 invocación y comunicación ilimitada por 1 escena
-    Invocar animales -> Animalismo + Carisma
-    Pedir un servicio -> Persuasión, Supervivencia o Animalismo + Carisma
+    Coste: 1 Peaje permite por tipo de animal elegido para la escena. Permite una invocación y comunicación ilimitada por 1 escena.
+    Para invocar Animales se tira Animalismo con el bono de Carisma. Se pueden dar ventajas o desventajas situacionales por el entorno.
+    Para pedir un servicio a un animal se requiere una tirada de Persuasión o de Supervivencia.
+        Con un éxito se consigue un favor sencillo, como que una paloma vigile la entrada del parque una noche
+        con un aumento se puede pedir a un animal que arriesgue su vida
     Duración: Una escena

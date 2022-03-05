@@ -1,9 +1,10 @@
 Reprimir a la Bestia
+    Requisitos: Animalismo d8+
     El vampiro intimida a la bestia interna de otro.
     Coste: 1 Peaje
-    Sistema: Animalismo + Carisma vs Vigor o Espíritu
+    Sistema: Animalismo vs Espíritu
     Contra un mortal un éxito lo incapacita para una escena, pudiendo solo defenderse
-    Contra un Vampiro un éxito evita que pueda realizar Arrebatos de Sangre
-        El daño de Ansia, de haberlo, se reemplaza por el dado salvaje normal
+    Contra un Vampiro un éxito evita que pueda realizar Arrebatos de Sangre (por lo que no puede mejorar sus atributos pagando un Peaje)
+        El dado de Ansia, de haberlo, se reemplaza por el dado salvaje normal
         Con un aumento también se pone fin al frenesí
     Duración: Contral mortales 1 escena, contra vampiros un turno en caso de éxito más tantos turnos como margen de victoria de la tirada enfrentada

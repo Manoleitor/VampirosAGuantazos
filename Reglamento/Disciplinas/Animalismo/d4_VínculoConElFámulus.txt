@@ -1,7 +1,0 @@
-· Vínculo con Famulus
-    Vincular a un Familiar, que luchará para defenderse o defender a su amo, pero al que no se le puede ordenar atacar a un enemigo
-    Supervivencia + carisma
-    Coste: Alimentar al futuro familiar tres noches
-    Permite convencer al familiar para que haga algo, para órdenes complejas se requiere de Susurros Salvajes o un aumento
-    Se puede usar Susurros Salvajes y Comunión de Espíritus sobre el familiar si coste alguno
-    El familiar no envejece

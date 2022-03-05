@@ -1,9 +1,10 @@
 · Sentir la bestia
+    Requisitos: Animalismo d4+
     Se puede sentir la bestia presente en el objetivo
     Sin coste
-    Espíritu + Animalismo vs Espíritu
-    +2 a Notar para percibir el nivel de hostilidad de un objetivo
-    Se puede usar de forma pasiva o activa
-    Con un éxito se determina si el objetivo posee una bestia sobrenatural
-    Aumento se recibe información sobre el tipo exacto de criatura así como su nivel de ansia o rabia
+    Otorga ventaja en tiradas de Notar para percibir las intenciones agresivas del entorno
+        Con Animalismo d10+ otorga Gran ventaja esa tirada
+    En caso de intentar percibir la hostilidad de alguien que activamente intenta ocultar sus intenciones la tirada es de Animalismo contra la Astucia del objetivo
+        Con un éxito se determina si el objetivo posee una bestia sobrenatural y si de su grado relativo de hostilidad con cierto margen
+        Con un aumento se recibe información sobre el tipo exacto de criatura así como su nivel de ansia o rabia
     Duración: Pasiva

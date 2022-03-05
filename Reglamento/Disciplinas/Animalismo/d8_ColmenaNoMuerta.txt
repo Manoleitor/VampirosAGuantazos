@@ -3,9 +3,11 @@ Colmena no-Muerta
     Permite afectar a enjambres de insectos, como moscas o cucarachas
     Muy común entre los Nosferatu
     Sin coste
-    Permite esconder el enjambre en los orificios del propio cuerpo haciéndolo indetectable a nada que sea como rayos-X o similar o mejor
+    Permite esconder el enjambre en los orificios del propio cuerpo haciéndolo indetectable a nada que sea como rayos-X, similar o mejor
     Los enjambres hacen poco daño en combate
-    <<Salud 5, reserva de 8 dados para defenderse>>
-    <<Reciben daño superficial por pelea, llamas e insecticidas producen daño agravado>>
-    Se pueden usar para espiar, como distracción (-2 a cualquier tirada para una sola persona acosada por el enjambre) o para intimidar a los mortales (+2 a intimidar). 
+    El enjambre tiene Parada 7 y Dureza 5.
+    El enjambre es invulnerable a golpes físicos.
+    El enjambre sufre debilidad a cosas como el fuego y los insecticidas
+    Se pueden usar para espiar, como distracción (otorga desventaja a cualquier tirada para una sola persona acosada por el enjambre) o para intimidar a los mortales (ventaja al intimidar). 
     Se aceptan usos creativos
+    Duración: Pasiva

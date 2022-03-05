@@ -1,0 +1,17 @@
+· Clarividencia
+    Requisitos: Auxpex d12+
+    El vampiro cierra los ojos y recopila información en pocos minutos de un área del tamaño de un bloque urbano así como de cualquier información fuera de lo común que ocurra en el área
+    Coste: 1 Peaje
+    Sistema: Tirada de Auxpex para usar el poder. Pueden precisarse otras tiradas como Astucia, Notar o Conocimientos para atar cabos y desechar lo que nos es relevante
+    Con un éxito se cubre una mansión
+    Un aumento para un bloque de viviendas desconocido en una barriada
+    Se obtiene ventaja si se realiza en el propio refugio
+    El jugador puede hacer una pregunta por éxito más una por cada punto de margen sobre la dificultad:
+        Las entradas o salidas
+        Lo que la gente ha visto y oído
+        Chismes locales
+        Grandes sorpresas
+        Impresiones recientes
+    Un aumento revela algo importante independientemente de las preguntas formuladas si es que hay algo que revelar
+    Duración: Unos minutos para recopilar la información, hasta una noche para la vigilancia
+    

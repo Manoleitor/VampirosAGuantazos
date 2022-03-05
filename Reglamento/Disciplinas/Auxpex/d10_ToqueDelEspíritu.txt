@@ -1,0 +1,10 @@
+· Toque del Espíritu
+    Requisitos: Auxpex d10+
+    Al tocar un objeto o el suelo de un lugar el vampiro puede sentir el residuo emocional de quienes manejaran el objeto o visitaran el lugar así como cierta intuición de lo que hizo y en qué circunstancias
+    Coste: 1 Peaje
+    Sistema: Tirada de Auxpex
+    La dificultad depende de la información buscada
+    Con un éxito se puede averiguar algo como el estado emocional del usuario de un arma homicida
+    A dificultad 8 se puede averiguar algo como el entorno en el que se escribió una carta hace 300 años.
+    Cada punto por encima de la dificultad permite detectar aproximadamente un individuo o conjunto de circustancias adicional desde el más reciente
+    Duración: 1 Turno.

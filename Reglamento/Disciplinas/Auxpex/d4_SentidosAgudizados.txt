@@ -1,0 +1,8 @@
+· Sentidos Agudizados
+    Requisitos: Auxped d4+
+    Como su propio nombre indica
+    Sin coste
+    Otorga ventaja en cualquier tirada de Notar y gran Ventaja con Auxpex d10+
+    Si se produce un estímulo extremo, como la música de una discoteca, se requiere tirada de astucia o espítiru con desventaja o la sobrecarga produce aturdimiento y desventaja a todas las tiradas durante la escena. 
+        La tirada es con Gran desventaja si se posee esta disciplina a Rango d10+. La desventaja que produce durante el resto de la escena es también Gran desventaja.
+    Duración: Hasta que se desactive. Tener el poder activo más de una escena requiere una tirada de Espítiru, con un fallo se recibe un nivel de fatiga

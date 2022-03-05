@@ -1,0 +1,9 @@
+· Telepatía
+    Requisitos: Auxpex d12+
+    Permite Leer e implantar pensamientos
+    Coste: 1 Peaje además de un beni para vampiros no voluntarios
+    Sistema: Espíritu vs Astucia
+    Se requiere línea de visión
+    Con un exito se disciernen pensamientos superficiales, con un aumento brinda una imagen coherente de los pensamientos e intenciones actuales del sujeto.
+    Se precisa mirar a los ojos se el objetivo no es voluntario
+    Duración: 1 minuto por Peaje, aumentado a una escena en sujetos voluntarios

@@ -1,0 +1,7 @@
+· Percibir lo invisible
+    Requisitos: Auxpex d4+
+    Se pueden percibir: Usuarios de Ofuscación, de Auxpex usado para espiar, fantasmas, hechizos y rituales latentes y demás cosas similares a discreción del narrador
+    Sin coste
+    Siempre que haya algo sobrenatural escondido se tira el dado de Auxpex, con un éxito se consigue percibir.
+    Contra un usuario de Ofuscación, tirada enfrentada de Ofuscación contra Auxpex
+    Duración: Pasiva

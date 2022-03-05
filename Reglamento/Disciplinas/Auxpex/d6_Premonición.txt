@@ -1,0 +1,14 @@
+· Premonición
+    Requisitos: Auxpex d6+
+    El vampiro experimente destellos de intuición, como pelos de punta o hasta visiones
+    Coste: Sin coste o 1 Peaje
+    A discreción del Narrador el vampiro puede recibir una pista por escena. El jugador también puede usar activamente la habilidad con una tirada exitosa de Auxpex, y con un aumento la intuición es más acertada
+    Si el usuario se concentra en un tema en concreto, con un Peaje, puede realizar una tirada de Auxpex. Un éxito y el número de aumentos determina el nivel de conocimiento dobre el tema
+    Al inicio de la noche el vampiro dealiza dos tiradas d8 con dado salvaje y anota el resultado como predicciones. 
+        En cualquier momento de la noche puede asignar el resultado de una de sus predicciones a una tirada que vaya a realizarse.
+        Dicha asignación debe realizarse antes de realizar la tirada.
+        Con Auxpex d10+ se realizan 3 predicciones.
+        Por un Peaje el vampiro puede realizar una predicción al comienzo de una escena para ser usada en dicha escena.
+            Por el pago de 3 Peajes se puede realizar para una predicción de la misma manera válida para toda la noche, y para otra noche por 5 Peajes.
+        Abusar de este poder puede generar Fatiga al usuario a discreción del Máster.
+    Duración: Pasiva

@@ -1,0 +1,15 @@
+ Posesión
+    Requisitos: Dominación d8+, Auxpex d12+
+    Permite poseer completamente el cuerpo de un mortal
+    Coste: 2 Peajes
+    Sistema: Tirada enfrentada de Espíritu
+    Si el objetivo es un Ghoul, primero debe ser Vinculado al usuario
+    El usuario debe tener contacto visual con la víctima.
+    Con una pifia el objetivo se vuelve inmune.
+    El cuerpo del vampiro entra en letargo mientras dura la posesión
+    <<Durante las hora diurnas el usuario debe lograr una tirada para mantenerse despierto si no el poder termina>>
+    Si la víctima recibe daño el usuario recibe 1 herida de carácter mental
+    Este poder no da la capacidad de leer la mente
+    Las tiradas de habilidad se realizan con el valor de rasgo del vampiro
+    Para poder suplantar los modales o forma de ser de la víctima se requiere una tirada enfrentada de Astucia
+    Duración: Hasta que termine, de modo voluntario o no.

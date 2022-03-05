@@ -1,0 +1,12 @@
+· Compartir los Sentidos
+    Requisitos: Auxpex d8+
+    El vampiro puede usar los sentidos del objetivo
+    El vampiro sigue siendo consciente de su entorno
+    El objetivo debe estar en la linea de visión del vampiro o tener algo de su sangre en su cuerpo
+    Coste: 1 Peaje
+    Sistema: Tirada de Auxpex
+    Con un éxito el vampiro tiene acceso a los sentidos del objetivo
+    El objetivo generalmente no es consciente de la intrusión
+    La intrusión puede ser detectada con Sentir lo Invisible
+    Para librarse del huésped no deseado la víctima ha de vencer en una tirada enfrentada en Espíritu, con un éxito el usuario de auxpex está vetado hasta la noche siguiente
+    Duración: Una escena

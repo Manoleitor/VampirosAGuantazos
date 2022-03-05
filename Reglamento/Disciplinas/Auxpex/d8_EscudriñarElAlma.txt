@@ -1,0 +1,18 @@
+· Escudriñar el Alma
+    Requisitos: Auxpex d8+
+    El vampiro puede ver el aura de la gente
+    Coste: 1 Peaje
+    Sistema: Tirada de Auxpex vs Astucia del objetivo
+    Con un éxito el Narrador responde con sinceridad a una cantidad de preguntas igual a una más margen de victoria
+        El estado emocinal del sujeto
+        <<La Resonancia de la sangre del sujeto>>
+        Si el sujeto es un ente sobrenatural
+            Y de que tipo
+        Si el sujeto está bajo algún efecto sobrenatural
+            E inferir de qué tipo
+        Si el objetivo ha cometido diablerie en el último año
+    Un aumento permite descubrir algo inesperado, a discreción del narrador
+    Si se escanea en una multitud:
+        Con un éxito se puede encontrar un vampiro en una sala
+        Con un aumento, en una tirada con desventaja (tal vez Gran desventaja), se puede encotrar a la persona más nerviosa de una rave
+    Duración: Un turno o a dicreción del Máster

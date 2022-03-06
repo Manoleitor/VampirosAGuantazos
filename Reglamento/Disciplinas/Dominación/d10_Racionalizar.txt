@@ -1,0 +1,7 @@
+· Racionalizar
+    Requisitos: Dominación d10+
+    Las víctimas del vampiro pasan a creer que actuaron por propia voluntad
+    Sin coste adicional
+    Si se presiona sobre la víctima esta puede hacer una tirada de Astucia con desventaja. Con un éxito la víctima se cuestiona su propia versión y con un aumento se da cuenta totalmente.
+    Duración: Lo que el Poder utilizado.
+    

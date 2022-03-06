@@ -1,0 +1,6 @@
+· Gracia Felina
+    Requisitos: Celeridad d4+
+    El vampiro gana un gran equilibrio y elegancia
+    Sin coste
+    Éxito automático al mantener el equilibrio. Anula desventaja por plataforma inestable
+    Duración: Pasiva

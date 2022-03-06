@@ -1,0 +1,7 @@
+· Compeler
+    Requisitos: Dominación d4+
+    El vampiro imparte una orden de una acción dicha en no más de una frase corta
+    Sin coste
+    Dominación vs Espíritu
+    No se necesita tirada contra una víctima mortal a menos que ya haya sido dominada en la misma escena o que la acción sea contra su propia naturaleza
+    Duración: 1 Acción

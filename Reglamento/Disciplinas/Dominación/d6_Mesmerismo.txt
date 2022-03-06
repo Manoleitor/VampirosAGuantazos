@@ -1,0 +1,7 @@
+· Mesmerismo
+    Requisitos: Dominación d6+
+    El vampiro puede impartir órdenes complejas como "Si ves a Henry dale este documento"
+    Coste: 1 Peaje
+    Dominación vs Espíritu
+    No se requiere tirada contra víctima mortal no preparada
+    Duración: Hasta que se ejecuta la orden o la escena finaliza

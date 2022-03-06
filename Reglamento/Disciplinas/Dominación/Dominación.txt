@@ -1,0 +1,10 @@
+Esta disciplina, junto con Presencia, es el motivo por el que los vampiros dominan el mundo ya que doblega la voluntad de los mortales y vampiros más débiles a la voluntad del usuario
+Requiere contancto visual.
+Captar lo ojos de alguien que intenta evitarlos requiere una tirada Intimidación vs Notar
+Salvo Decreto Terminal (Dominación d12+), las órdenes que tienen como resultado una muerte obvia o lesión grave fallan automáticamente.
+Si la víctima es un vampiro:
+    De menor Poder de Sangre. Dominación funciona con normalidad con él.
+    De igual Poder de Sangre. Puede librarse de los efectos de Dominación gastando un Beni, superando una tirada enfrentada de Espíritu y pagando un Peaje.
+    De mayor Poder de Sangre. Puede liberarse pagando un Peaje.
+Tipo: Mental
+RM: Bajo

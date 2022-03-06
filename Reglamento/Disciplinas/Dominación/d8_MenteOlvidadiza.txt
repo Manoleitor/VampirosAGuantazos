@@ -1,0 +1,9 @@
+· Mente olvidadiza
+    Requisitos: Dominación d8+
+    El vampiro puede reescribir fragmentos enteros de la mente de su víctima
+    Este poder no permite investigar los verdaderos recuerdos de la víctima
+    Coste: 1 Peaje
+    Dominación vs Espíritu
+    Un éxito permite crear o eliminar un recuerdo mas uno por cada punto de margen en la tirada enfrentada
+    Con un aumento el recuerdo creado es tan impecable como uno real
+    Durtación: indefinida

@@ -1,0 +1,5 @@
+· Puntería Certera
+    Requisito: Auxpex d10+
+    El vampiro puede disparar como si hubiese estado apuntando e ignora cobertura
+    Si el objetivo posee Celeridad d12+ puede cancelar ignorar este poder con 1 Peaje
+    Duración: Un turno

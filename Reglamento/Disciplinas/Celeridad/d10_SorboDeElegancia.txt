@@ -1,0 +1,6 @@
+· Sorbo de elegancia
+    Requisitos: Celeridad d10+
+    El vampiro transmite celeridad a alguien que beba de su sangre
+    Coste: 1 Control de enardecimiento
+    Beber del vampiro otorga tuntos temporales de celeridad iguala la mitad del donante(redondeado hacia abajo, por lo que normalmente serán siempre 2 rangos) y los poderes hasta ese nivel
+    Duración: Una noche; para vampiros hasta la siguiente alimentación o hasta llegar al máximo de hambre

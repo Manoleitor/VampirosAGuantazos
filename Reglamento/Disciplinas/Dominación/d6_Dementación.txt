@@ -1,0 +1,10 @@
+· Dementación
+    Requisitos: Ofuscación d6+, Dominación d6+
+    Requiere solo de una conversación casual
+    La víctima se encotrará cada vez más agitada debido a sus demonios internos
+    Coste: 1 Peaje por escena
+    Dominación vs Espíritu
+    Cada turno se puede hacer una tirada para causar 1 punto de fatiga por estrés mental
+    Un mortal que quede impelido por este poder sufre un ataque de ansiedad o frote psicótico
+    Un vampiro sucumbe inmediatamente a una Compulsión
+    Duración: 1 Escena

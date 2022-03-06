@@ -1,0 +1,7 @@
+· Manipulación en masa
+    Requisitos: Dominación d12+
+    El vampiro puede ahora dar órdenes a grandes concurrencias de mortales o incluso a grupos de vampiros.
+    Las víctimas precisan ver los ojos del vampiro.
+    La tirada enfrentada se hace contra la víctima más fuerte.
+    Coste: El coste del poder original más 1 Peaje
+    Duración: según el poder amplificado

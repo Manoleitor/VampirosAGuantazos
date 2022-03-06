@@ -1,0 +1,4 @@
+Permite moverse con un gracia y velocidad sobrehumanas
+Tipo: Físico
+Riesgo para la Mascarada: Alto
+Rasgo Asociado: Agilidad

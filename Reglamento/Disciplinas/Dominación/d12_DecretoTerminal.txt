@@ -1,0 +1,5 @@
+· Decreto Terminal
+    Requisitos: dominación d12+
+    El vampiro puede dar órdenes suicidas o totalmente en contra de la naturaleza de la víctima.
+    Las órdenes suicidas pueden ser resistidas por la víctima, en lugar de fallar automáticamente.
+    Duración: Pasiva

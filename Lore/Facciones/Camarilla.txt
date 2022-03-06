@@ -28,4 +28,5 @@ Leyes de la Camarilla
             Caza de Sangre es la orden de un Príncipe, a todo vampiro en su Dominio, de perseguir y eliminar a un vampiro en concreto.
 
         Existe una 7ª tradición de facto relacionada con el mundo moderno y es acerca de la tecnología. Llevar dispositivos móviles encima, usarlos o hacer uso de las redes sociales facilita que los vampiros sean descubiertos por las fuerzas del orden mortales, cazadores de vampiros o La Inquisición (que sigue existiendo también de tapadillo), por lo que el uso de estas tecnologías suele estar prohibido y penado con la muerte.
-        
+
+//TODO     

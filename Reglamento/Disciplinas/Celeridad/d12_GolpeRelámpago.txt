@@ -1,0 +1,7 @@
+· Golpe relámpago
+    Requisitos: Celeridad d12+
+    El vampiro ataca tan rápido que la víctima no puede defenderse
+    Coste: 1 Peaje
+    La víctima se considera sorprendida para los ataques realizdos por el vampiro este turno
+    Un objetivo con Celeridad d12+ puede contrarrestar este poder al coste de 1 Peaje
+    Duración: 1 Turno

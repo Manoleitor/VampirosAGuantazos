@@ -1,0 +1,9 @@
+· Encubrimiento de la Concurrencia
+    Requisitos: Ofuscación d12+
+    El vampiro puede proteger a sus compañeros bajo el manto de la Ofuscación
+    Coste: 1 Peaje
+    El vampiro puede extender el Poder de Ofuscación a tantos sujetos como su rango de astucia
+    Cada miembro de grupo usa el valor de Ofuscación de quien usa el Poder en caso chequeo
+    Los miembros del grupo pueden verse entre sí
+    Si alguien a parte del usuario es descubierto el resto permacen ocultos
+    Duración: Como el Poder Extendido

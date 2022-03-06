@@ -1,0 +1,7 @@
+· Paso Invisible
+    Requerimientos: Ofuscación d6+
+    El usuario se puede mover sin romper Ofuscación
+    Coste: 1 Peaje
+    Mientras el usuario no emita sonidos más fuertes que un susurro, el Poder funciona automáticamente.
+    Solo si atrae la atención se puede realizar una tirada de detección más allá de las reglas generales de Ofuscación
+    Duración: 1 Escena

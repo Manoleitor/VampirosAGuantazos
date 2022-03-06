@@ -1,0 +1,12 @@
+· Desvanecerse
+    Requisito: Ofuscación d10+, Capa de Sombras
+    El vampiro puede ativar Capa de Sombras y Paso Invisible incluso bajo observación directa.
+    El vampiro parece desaparecer en un abrir y cerrar de ojos.
+    Incluso su recuerdo se vuelve borroso
+    Coste: Sin coste adicional al Poder base
+    Ofuscación vs Notar
+    Con una victoria el observador se pregunta si el vampiro siquiera estuvo alguna vez ahí
+    Con un aumento el vampiro desaparece por completo de la memoria del observador
+    Este poder no afecta los recuerdos de los vampiros
+    Este poder solo puede usarse una vez por escena
+    Duración: Lo que el Poder aumentado

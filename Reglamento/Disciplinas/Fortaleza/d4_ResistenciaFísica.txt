@@ -1,0 +1,7 @@
+· Resistencia Física
+    Requisitos: Fortaleza d4+
+    Sin coste
+    El vampiro añade un punto de dureza por Rango del poder.
+    Añade ventaja a las tiradas de vigor realizadas por el vampiro.
+    A Rango d10+ añade Gran ventaja.
+    Duración: Pasiva.

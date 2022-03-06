@@ -1,0 +1,5 @@
+· Dureza
+    Requisitos: Fortaleza d6+, Resistencia Física
+    Coste: 1 Peaje
+    Añade otro punto a dureza por rango de fortaleza contra daño no agravado
+    Duración: 1 Escena

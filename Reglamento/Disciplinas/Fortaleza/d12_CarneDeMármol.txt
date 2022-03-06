@@ -1,0 +1,7 @@
+· Carne de Mármol
+    Requisitos: Fortaleza d12+
+    El poder de la Sangre hace que la piel del vampiro se endurezca adquiriendo un brillo similar al del mármol. 
+    Un vampiro con este poder es casi imposible de destruir directamente.
+    Coste: 2 Peajes.
+    El vampiro ignora la principal fuente de daño físico cada turno, salvo la luz del sol
+    Duración: 1 Escena 

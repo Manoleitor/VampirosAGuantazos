@@ -404,11 +404,11 @@ Disciplinas
 			Elimina los penalizadores por heridas y aumenta dos Rangos de atributo físico por cada nivel de heridas (es decir 6 rangos con tres heridas)
 			
 	Ofuscación
-		Ofuscación produce un efecto de invisivilidad basado en un mesmerimos que hace que los observadores potenciales "elijan" no ver al usuario de Ofuscación.
+		Ofuscación produce un efecto de invisivilidad basado en un mesmerimo que hace que los observadores potenciales "elijan" no ver al usuario de Ofuscación.
 		Los testigos son capaces de ver al vampiro pero su mente no lo procesa por lo que a efectos prácticos es como si fuese invisible.
-		Si el vampiro hace algo que no puede ser ignorado, como bloquear intecionadamente el camino de alguien, gritar o apuntar con un arma.
-		Quien va a ser atacado por un arma tiene derecho a una tirada de Notar vs Sigilio
-		Si el observador tiene ver lo invisible con Auxpex se pueden hacer tiradas enfrentadas Auxpex vs Ofuscación
+		Si el vampiro hace algo que no puede ser ignorado, como bloquear intencionadamente el camino de alguien, gritar o apuntar con un arma.
+		Los potenciales observadores tienen derecho a una tirada de Notar vs Sigilio
+		Si el observador posee el Poder "Percibir lo Invisible" de Auxpex, se pueden hacer tiradas enfrentadas Auxpex vs Ofuscación
 		Tipo: Mental
 		RM: Bajo
 		

@@ -1,0 +1,7 @@
+· Máscara de las Mil Caras
+    Requisitos: Ofuscación d8+
+    El vampiro usa este poder para parecer un extraño cualquiera
+    El poder no proporciona ninguna identificacfión personal o formas de engañar un control de identidad
+    Coste: 1 Peaje
+    Cualquier persona ve al vampiro con una cara fácil de olvidar y ropa según lo normal para el entorno
+    Duración: 1 Escena

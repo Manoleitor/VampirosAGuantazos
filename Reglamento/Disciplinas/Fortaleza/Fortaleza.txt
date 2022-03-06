@@ -1,0 +1,4 @@
+Otorga resistencia tanto física como mental. La fortaleza mental se puede usar para resistir Disciplinas que afecten a la mente.
+Tipo: Físico y Mental
+Riesgo para la Mascarada: Bajo - Medio
+Característica Relacionada: Vigor

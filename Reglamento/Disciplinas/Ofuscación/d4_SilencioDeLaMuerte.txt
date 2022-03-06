@@ -1,0 +1,8 @@
+· Silencio de la Muerte
+    Requerimientos: Ofuscación d4+
+    Solo afecta al oído, pero el vampiro debería hacer un montón de ruído para romper el efecto de silencio
+    El usuario puede moverse y hacer cosas normales
+    No elimina los sonidos que el usuario hace fuera de su espacio personal
+    Común entre los assamitas
+    Sin coste
+    Duración: 1 Escena

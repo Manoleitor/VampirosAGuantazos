@@ -1,0 +1,10 @@
+· Disfraz de Impostor
+    Requisito: Ofuscación d12+, Máscara de las Mil Caras
+    Con algo de preparación el vampiro puede parecer un individuo específico
+    Coste: 1 Peaje
+    Se debe estudiar la cara del objetivo a suplantar durante al menos 5 minutos y otros 10 para imitar la voz y los gestos
+    Tirada de Ofuscación con desventaja
+    Un fallo significa que cualquier persona cercana a la persona copiada notará que algo va mal
+    Con un éxito la ilusión es convincente, pero el usuario debe tirar por Persuasión para suplantar el habla y los gestos
+    Con un aumento se crea una ilusión perfecta sin necesidad de tirar más
+    Duración: 1 Escena

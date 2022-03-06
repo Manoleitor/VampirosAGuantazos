@@ -2,5 +2,7 @@
     Requisitos: Celeridad d4+
     El vampiro gana un gran equilibrio y elegancia
     Sin coste
-    Éxito automático al mantener el equilibrio. Anula desventaja por plataforma inestable
+    Éxito automático al mantener el equilibrio. Anula desventaja por plataforma inestable.
+    Otorga ventaja en tiradas de agilidad.
+    Si el vampiro tiene la ventaja acróbata, otorga gran ventaja.
     Duración: Pasiva

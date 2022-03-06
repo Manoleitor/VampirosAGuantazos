@@ -1,0 +1,5 @@
+· Sorbo de Aguante
+    Requisitos: Fortaleza d10+
+    Coste: 1 Peaje
+    Transfiere la mitad de sus Rangos en Fortaleza a quien beba de su sangre, junto a los poderes de dichos Rangos. 
+    Duración: Una noche; para vampiros hasta la siguiente alimentación o cuando alcance Ansia d12

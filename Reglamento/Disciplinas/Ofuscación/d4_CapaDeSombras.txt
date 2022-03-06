@@ -1,0 +1,5 @@
+· Capa de Sombras
+    Requisitos: Ofuscación d4+
+    Si el vampiro se queda quieto y tiene algún tipo de cobertura solo puede ser detectado por medios tecnológicos o sobrenaturales
+    Sin coste
+    Duración: 1 Escena

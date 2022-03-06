@@ -1,0 +1,9 @@
+· Resistencia Mental
+    Requisitos: Fortaleza d4+ 
+    Sin coste
+    El vampiro obtiene ventaja para resistir la intimidación o la provocación
+    La ventaja también aplica para las tiradas para resistir efectos de las Disciplinas.
+    Otorga Gran ventaja a Rango d10+
+    Hace al vampiro un poco fijo de ideas y difícil de convencer
+    Duración: Pasiva
+		

@@ -6,4 +6,4 @@
     El vampiro puede mantener el poder de una ronda para la siguiente símplemente pagando el peaje.
     Coste: 1 Control de Enardecimiento
     El valor de parada del objetivo baja a 2
-    Un objetivo con Celeridad 5 puede contrarrestar este poder al coste de 1 Control de Enardecimiento
+    Un objetivo con Celeridad d12+ puede contrarrestar este poder al coste de 1 Control de Enardecimiento

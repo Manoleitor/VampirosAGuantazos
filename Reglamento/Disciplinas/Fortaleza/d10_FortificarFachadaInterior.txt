@@ -1,0 +1,4 @@
+· Fortificar la Fachada Interior
+    Requisitos: Fortaleza d10+, Resistencia Mental
+    Aplica un Gran desventaja cualquier intento de escuadriñar o influir en su mente
+    Duración: 1 Escena

@@ -1,0 +1,11 @@
+· Ocultar
+    Requisito: Auxpex d8+, Ofuscación d10+
+    Permite ocultar objetos inanimados como una puerta, un automóvil o una casa pequeña
+    A menos que algo haga que los transeúntes choquen con él o alguien lo señale, las persona se comportarán como si el objeto no estuviera allí
+    Coste: 1 Control de Enardecimiento
+    El vampiro debe tocar el objeto a ocultar
+    Tirada de Ofuscación
+        Un anillo en un cajón lleno de recuerdos, se tira con ventaja
+        Ocultar una casa en una plaza abierta, se tira con Gran desventaja
+    No se puede afectar a nada mayor que una casa de 2 pisos o a un coche en marcha
+    Duración: 1 Noche más una noche adicional por cada punto de margen de éxito

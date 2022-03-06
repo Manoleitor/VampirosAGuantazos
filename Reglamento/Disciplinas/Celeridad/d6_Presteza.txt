@@ -1,7 +1,7 @@
 · Presteza
-    Requisitos: Presteza d6
+    Requisitos: Presteza d6, Reflejos rápidos
     Moverse y reaccionar a una velocidad vertiginosa
     Coste: 1 Peaje
-    Ventaja en pruebas basadas en agilidad que no sean de combate. Con Celeridad d10+ otorga Gran Ventaja
-    Una vez por Peaje, el usuario puede añadir un +1 a su Parada por Rango de Habilidad
+    Gran ventaja en pruebas basadas en agilidad que no sean de combate.
+    Una vez por Peaje, el usuario puede añadir un +1 a su Parada por Rango de Celeridad
     Duración: Una escena

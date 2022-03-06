@@ -1,0 +1,7 @@
+ Fantasma en la Máquina
+    Requerimientos: Ofuscación d8+
+    El usuario es capaz de engañar a los medios de detección tecnológicos. En caso se ser grabado, la imagen se verá borrosa
+    Sin coste adicional
+    Otorga desventaja a la hora de identificar al usuario. Con Ofuscación d10+ otorga Gran Desventaja
+    El usuario obtiene ventaja al tratar de burlar las medidas electrónicas
+    Duración: Lo que el Poder utilizado

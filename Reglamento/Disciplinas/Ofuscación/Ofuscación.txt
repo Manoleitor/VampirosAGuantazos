@@ -1,0 +1,8 @@
+Ofuscación produce un efecto de invisivilidad basado en un mesmerimo que hace que los observadores potenciales "elijan" no ver al usuario de Ofuscación.
+Los testigos son capaces de ver al vampiro pero su mente no lo procesa por lo que a efectos prácticos es como si fuese invisible.
+Si el vampiro hace algo que no puede ser ignorado, como bloquear intencionadamente el camino de alguien, gritar o apuntar con un arma.
+Los potenciales observadores tienen derecho a una tirada de Notar vs Sigilio
+Si el observador posee el Poder "Percibir lo Invisible" de Auxpex, se pueden hacer tiradas enfrentadas Auxpex vs Ofuscación
+Tipo: Mental
+RM: Bajo
+Característica Asociada: Astucia

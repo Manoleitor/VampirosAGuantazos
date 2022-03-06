@@ -1,0 +1,8 @@
+· Desafiar Prohibición
+    Requisitos: Fortaleza d8+
+    El vampiro puede hacerse temporalmente resistente a la luz del sol y al fuego
+    Coste: 1 Peaje
+    Tirada de Supervivencia, para activarlo como reflejo
+    Tirada de Fortaleza para convertir daño agravado en superficial.
+        Con un éxito se convierte una herida, mas otra más por aumento
+    Duración: instantáneo

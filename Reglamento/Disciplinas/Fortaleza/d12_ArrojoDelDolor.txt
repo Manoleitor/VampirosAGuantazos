@@ -1,0 +1,5 @@
+· Arrojo por el Dolor
+    Requisitos: Fortaleza d12+
+    Coste: 1 Peaje
+    Elimina los penalizadores por heridas y fatiga, y aumenta dos Rangos de atributo físico por cada nivel de heridas (es decir 6 rangos con tres heridas)
+    Duración: 1 Escena

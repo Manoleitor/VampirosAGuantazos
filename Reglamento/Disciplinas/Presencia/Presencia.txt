@@ -1,0 +1,104 @@
+Esta Disciplina vuelve al vampiro sobrenaturalmente bello o terrible
+Tipo: Mental
+RM: bajo-medio
+Característica Asociada: Espíritu
+
+
+Ejemplo de uso:
+    Teresa, una bella y carismática Toreador (ventajas Carismático y Atractivo), tiene Carisma 4, Intimidar d4, Persuadir d6 y los poderes
+    Atemorizar
+    Fascinar
+    Mirada Aterradora
+
+    En un momento dado intenta intimidar y si no lo consigue utilizar Mirada Aterradora con Bruno,
+        un Ventrue a las claras más poderoso que posee Espíritu d8, Vigor d10, Intimidar d8 y Fortaleza d10, con los Poderes
+            Resistencia Física
+            Resistencia Mental
+            Desafiar Prohibición
+            Fortificar Fachada Interior
+
+    Al intentar intimidarlo Teresa tiene para su tirada:
+        d4 por intimidar
+        ventaja dada por el Poder Atemorizar
+        desventaja por tratar de intimidar a alguien que sabe más poderoso.
+        total: 1d4 con 1d6 dado salvaje
+
+    Bruno se defiende con:
+        d8 por espíritu
+        Gran Ventaja por Resistencia Mental y Fortaleza d10
+        Fortificar Fachada Interior no aplica al no tratarse de un Poder Sobrenatural per se
+        Ventaja por saberse un Vampiro más poderoso
+        total: d8 con d6 de dado salvaje más 4 puntos de Gran ventaja
+
+    Con lo que Bruno lo tiene bastante fácil para resistir la Intimidación.    
+
+    Teresa Falla la intimidación y acto seguido usa el poder Mirada Aterradora como última opción. Tira:
+        d8 por Presencia
+        4 puntos de Carisma
+        ventaja por el Poder Atemorizar
+        desventaja por intentar amedrentar a un vampiro que sabe más fuerte
+        Gran desventaja por el Poder Fortalecer Fachada Interior de Bruno
+        total: d8 con d6, la Gran desventaja anula los 4 puntos de Carisma y el saberse menos poderosa que Bruno le otorga desventaja que anula la ventaja por Atemorizar
+
+    Bruno por su lado tira:
+        d8 espíritu
+        Gran ventaja por Resistencia Mental a d10
+        Nada por Fortalecer Fachada Interior porque eso aplica a la tirada del ofensor como Gran Desventaja
+        Ventaja por saberse más poderoso
+        total: d8 con d6 más 4 por Gran ventaja de Resistencia Mental
+
+    Así que al final el enfrentamiento es d8 contra d8 + 4
+    Pero si Bruno no fuese un vampiro a que los dos saben más poderoso sino un igual con solo Fortaleza d8 (y por tanto sin el Poder Fortalecer Fachada Interior),
+    Teresa tiraría:
+        d4 para intimidar
+        ventaja por el Poder Atemorizar
+        total: d4 + 2
+
+    Y Bruno:
+        d8 por Espíritu
+        ventaja por Resistencia Mental (su Fortaleza ahora solo es d8)
+        total: d8 + 2
+
+    Bruno todavía lo tiene sencillo para resistir la intimidación pero ya no es tan fácil
+    Entonces Teresa usa Mirada Aterradora:
+        d8 por Presencia
+        4 puntos por Carisma
+        ventaja por el Poder Atemorizar
+        total: d8 + 6
+
+    y Bruno se defiende:
+        d8 de espíritu
+        ventaja por Fortalecer Fachada Interior
+        total: d8 + 2
+
+    Quedando con d8 + 6 contral d8 +2. Con lo que parece que esta vez Teresa lleva la iniciativa. 
+    Podría conseguir vencer a Bruno con un aumento, con lo que Bruno entraría en Frenesí Cobarde, que deberá tratar de controlar inmediatamente.
+    Pero no eso no es complicado para un Ventrue. La dificultad normal de resistir un Frenesí es 4 y Bruno tira:
+        d8 de Espíritu
+        ventaja por Fortaleza Mental
+        total: d8 + 2
+
+    Fácil de superar salvo que pífie, por lo que Bruno aguanta el frenesí este turno, pero aún así se ve obligado a retirarse lo más dignamente posible.
+    Más tarde, después de lograr suprimir por complpeto el Frenesí, vuelve para devolverle el golpe a Teresa.
+    Como Ventrue Bruno también tiene acceso a Presencia, conoce el poder Atemorizar e intenta usar el Poder Mirada Aterradora sobre teresa. Su tirada es:
+        d8 de Presencia
+        ventaja por Atemorizar
+        2 puntos de Carisma por ventaja Noble
+        total: d8 + 4
+
+    Y Teresa se defiende con:
+        d6 de Espíritu
+        Y más nada
+
+    Resumiendo:
+        d8 + 4 contra d6
+
+    Teresa se ve obligada a retirarse y probáblemente también a tratar de resistir el Frenesí, lo que haría con su d6 contra dificultad 4
+
+    Dejamos ahí a los vampiros enseñándose los dientes.
+
+    // Parece que el resultado final depende mucho de quién tome la iniciativa
+    // El Frenesí parece fácil de aguantar. Si se sube la dificultad básica a 6, es difícil de aguantar para alguien con espíritu d6, y si tiene Fortaleza Mental todavía tiene que sacar un 4 normal
+    // Si hay que nerfear el Poder se puede otorgar una tirada de espíritu a la víctima que se de cuenta de que está siendo objeto de un poder de Presencia, porque lo conoce gracias a que ella misma lo posee, sus conocimiento en Ocultimo o Vampirismo o su experiencia previa de la que ha sabido aprender.
+    
+    

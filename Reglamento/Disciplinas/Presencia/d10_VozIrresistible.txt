@@ -1,0 +1,6 @@
+· Voz Irresistible
+    Requisito: Dominación d4+
+    El vampiro solo precisa que se escuche su voz para usar Dominación
+    Sin Coste
+    No se aplica a las voces transmitidas por medios electrónicos como el teléfono o la televisión
+    Duración: Pasiva

@@ -1,0 +1,10 @@
+· Majestad
+    Requerimientos: Presencia d12+
+    El vampiro parece tan deslumbrante como un dios o un demonio
+    Coste: 2 Peajes
+    Presencia + Carisma vs Espíritu
+    Las víctimas se encuentran totalmente emblebesadas por el vampiro.
+    Cualquira que quiera actuar contra el vampiro excepto por propia supervivencia debe realizar una tirada enfrentada. 
+    Con un éxito se consigue un turno de libertad más otro por cada margen. Solo con un Aumento se puede resistir una escena.
+    Duración: 1 Escena
+    

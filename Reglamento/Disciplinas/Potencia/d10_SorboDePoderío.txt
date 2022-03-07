@@ -1,0 +1,7 @@
+· Sorbo de Poderío
+    Requisitos: Potencia d10+
+    El vampiro puede trasmitir la potencia a cualquiera que beba de él
+    Coste: 1 Peaje
+    El bebedor obtiene Rangos de Potencia igual a la mitad, resondeando hacia abajo, de los del donante durante una noche, junto los poderes asociados.
+        Por lo que el receptor obtendrá d6 en Potencia, salvo donante de nivel legendario
+    Duración: Una noche; para vampiros hasta la siguiente alimentación o hasta quedar Famélicos

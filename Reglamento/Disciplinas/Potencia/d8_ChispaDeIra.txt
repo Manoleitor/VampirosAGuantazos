@@ -1,0 +1,10 @@
+· Chispa de Ira
+    Requisitos: Presencia d8+, Potencia d8+
+    El vampiro puede incitar a la ira, e incluso, al frenesí al combinar Potencia y Presencia, lo que por cierto en un combinación muy común en los Brujah
+    Coste: 1 Peaje
+    El vampiro añade su Dado de Potencia a cualquier intento de Provocar o Persuadir para incitar a la violencia
+    Se puede tratar de inducir al Frenesí Furioso con una tirada enfrentada de Potencia contra Astucia o Espíritu de la víctima.
+        Con un éxito la víctima entra en Frenesí, que puede tratar de suprimir con normalidad.
+        Con un incremento la víctima tirará con desventaja, Gran desventaja si son varios incrementos.
+        Los Brujah normalmente este tipo de tiradas ya las hacen con desventaja de por sí, lo que probablemente explica porqué siendo unos luchadores tan bravos nunca logran organizarse.
+    Duración: 1 Escena

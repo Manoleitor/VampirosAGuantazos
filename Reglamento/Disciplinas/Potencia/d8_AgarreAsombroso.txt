@@ -1,0 +1,6 @@
+· Agarre Asombroso
+    Requisitos: Potencia 
+    El Vampiro puede hundir sus extremidades casi en cualquier superficie, lo que le premite trepar con suma facilidad
+    Coste: 1 Peaje
+    El vampiro supera automáticamente cualquier tirada de trepar salvo por superficies metálicas muy duras
+    Duración: 1 Escena

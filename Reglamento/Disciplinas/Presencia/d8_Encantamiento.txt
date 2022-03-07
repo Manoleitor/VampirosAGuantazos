@@ -1,0 +1,12 @@
+· Encantamiento
+    Requisitos: Presencia d8+
+    El vampiro enfoca su encanto natural en una sola persona, cusándole una fascinacion o pasión similar a encontrarse con su ídolo de toda la vida o estar totalmente enamorado
+    Coste: 1 Peaje
+    Presencia del vampiro vs Astucia o Espíritu
+    El vampiro precisa obtener la atención del objetivo y vencer en una tirada enfrentada.
+    En la tirada enfrentada se aplica cualquier bono de Carisma que tenga el vampiro.
+    Con un éxito logra fascinar a la víctima por un número de horas igual al margen de victoria.
+    El vampiro puede renovar el poder indefinídamente tirando otra vez, pero un fallo rompe el efecto por toda la noche.
+    El vampiro obtiene ventaja en cada tirada social enfrentada contra su víctima. Gran ventaja con Presencia d10+
+    La víctima puede repetir la tirada si se le intenta dañar a ella, a sus seres queridos o se la intenta forzar contra sus principios
+    Duración: Una hora más otra por punto de margen de victoria en la tirada enfrentada.

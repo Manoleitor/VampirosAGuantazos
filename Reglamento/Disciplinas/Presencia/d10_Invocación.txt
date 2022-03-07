@@ -1,0 +1,11 @@
+· Invocación
+    Requisitos: Presencia d10+
+    El vampiro puede convocar a cualquier persona, mortal o vampiro sobre la que haya usado Fascinación, Encantamiento, Majestad o que haya probado su sangre al menos una vez.
+    El objetivo sabe quién lo convoca y su ubicación.
+    La llamada dura toda la noche.
+    Cualquiera que sea Invocado intentará llegar hasta el usuario, aunque sin ponerse en peligro. No venderá su casa para comprarse un billete ni se perderá una reunión vital o los compromisos sociales.
+    Coste: 1 Peaje
+    Presencia vs Astucia o Espíritu
+    El usuario necesita concentrarse cinco minutos y tener éxito en la tirada enfrentada. 
+    Con un éxito crítico el objetivo intentará llegar lo más rápido posible, salvo riesgo inmediato para su bienestar.
+    Duración: 1 noche

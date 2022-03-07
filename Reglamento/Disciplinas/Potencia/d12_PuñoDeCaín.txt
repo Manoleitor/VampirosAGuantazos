@@ -1,0 +1,9 @@
+· Puño de Caín
+    Requisitos: Potencia d12+
+    Las manos desnudas del vampiro pueden causar daños muy graves, al poder este desgarrar y arrancar extremidades con los dedos
+    Coste: 1 Peaje
+    El vampiro causa daño agravado con las manos desnudas
+    Duración: 1 Escena
+
+    //No es un poder tan over, las garras de Protean también hacen daño agravado a un nivel mucho más bajo. 
+    //También es cierto que las garras son un arma mucho más evidente.

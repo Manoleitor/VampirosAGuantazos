@@ -1,0 +1,11 @@
+· Alimentación Brutal
+    Requisitos: Potencia d8+
+    Conocido como beso salvaje. En pocos segundos el vampiro atacante drena a la víctima mientras la hace pedazos.
+    Sin coste
+    El vampiro puede drenar a un humano en segundos, normalmente un turno. 
+    Este poder se usa normalmente después de un agarre con éxito seguido de un mordisco. Primero se hace el daño normal del mordisco y luego 2 heridas automáticas.
+        Un vampiro víctima de este Poder debe hacer 3 tiradas de Peaje con desventaja, por la pérdida de sangre.
+        El daño sufrido por el vampiro es superficial, y puede curarse con normalidad, si le queda sangre.
+        La pérdida de sangre probáblemente hará que el vampiro entre en Frenesí Famélico.
+    Como nota, este es un Poder muy truculento que puede dejar Atribulado casi a cualquiera.
+    Duración: Lo que lo uses

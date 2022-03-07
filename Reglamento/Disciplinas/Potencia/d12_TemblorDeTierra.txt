@@ -1,0 +1,9 @@
+· Temblor de Tierra
+    Requisitos: Potencia d12+
+    El Vampiro puede golpear el suelo creando una onda de choque que derribe a los oponentes
+    Coste: 2 Peajes.
+    El vampiro golpea el suelo con una patada o su puño y cualquiera a 5 metros del usuario debe tirar Agilidad con desventaja.
+        Con un éxito, pierde su turno con un fracaso, pierde su acción y cae al suelo, pudiendo perder el teste turno y el siguiente
+        Con un Aumento ignora los efectos de este Poder por esta vez.
+        Con un Fallo pierde su turno y cae al suelo, pudiendo perder el siguiente turno.
+    Duración: 1 Acción

@@ -1,0 +1,13 @@
+Básicamente, es superfuerza.
+Tipo: Físico
+RM: Media - Alta
+Característica Asociada: Fuerza
+
+Como composión de lugar, un vampiro "Artista Marcial" que se las haya apañado para tener Fuerza d10 y Potencia d12, lo que es factible, ya haya escogido los poderes:
+    Cuerpo Letal, de primer Rango
+    Bravura, de segundo
+    y puño de caín de quinto Rango
+
+Por 2 Peajes haría con las manos desnudas durante toda una escena
+    1d8 + 1d4 + 1d12 + 5PA
+    de daño agravado a vampiros

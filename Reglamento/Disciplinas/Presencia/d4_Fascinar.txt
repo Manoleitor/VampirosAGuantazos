@@ -1,0 +1,9 @@
+· Fascinar
+Requisitos: Presencia 4+
+    La atención de todos se ve inexplicáblemente atraídos hacia el vampiro.
+    Sin coste
+    Otorga ventaja a cualquier tirada relacionada con la persuasión o la interpretación. 
+    Quien se de cuenta de que está siendo afectado puede tratar de superar una tirada enfrentada de Astucia o Espíritu vs Presencia del vampiro para negar este Poder.
+    A d10+ otorga Gran Ventaja.
+    Atacar a usuario de este Poder requiere una tirada de Espíritu (habitualmente a dificultad 4), de lo guapo que es.
+    Duración: Pasiva, aunque el vampiro puede desactivarla

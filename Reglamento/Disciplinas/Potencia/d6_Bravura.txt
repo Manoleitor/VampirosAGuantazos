@@ -1,0 +1,14 @@
+· Bravura
+    Requisitos: Potencia d6+
+    Más fuerza sin más
+    Coste: 1 Peaje
+    Mientras está activo:
+        Añade a todas las tiradas que implican fuerza, incluyendo las de daño por pelea, un dado igual al Rango de Potencia:
+        Ejemplo. Um vampiro don d8 en Fuerza, d6 en Potencia y con la ventaja "Artista Marcial" del libro básico golpea a un oponente logrando un incremento con la mano desnuda, tiraría:
+            1d8, por Fuerza
+            1d6, por el incremento
+            1d4, por golpear con el puño siendo "Artista Marcial"
+            1d6, por Potencia
+            Total: 1d8 + 2d6 + 1d4
+
+    Duración: 1 Escena

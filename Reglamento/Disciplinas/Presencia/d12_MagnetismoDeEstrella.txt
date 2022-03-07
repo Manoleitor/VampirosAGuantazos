@@ -1,0 +1,7 @@
+· Magnetismo de Estrella
+    Requisitos: Presencia d12+
+    Los Poderes de Presencia ahora afectan a través de transmisiones en vivo o por teléfono. Sin embargo no se aplica a mensajes o imágenes grabados.
+    Coste: 1 Peaje adicional al poder inicial.
+    Fascinación, Atemorizar y Encantamiento pueden transmitirse por medios de comunicación en vivo.
+    Si se usa con Encantamiento, el nombre de la víctima debe pronunciarse con claridad, ya que ese poder solo afecta a una persona a la vez.
+    Duración: Como el Poder utilizado.

@@ -1,0 +1,12 @@
+· Beso Persistente
+    Requisitos: Presencia d6+
+    Este Poder está pensado para facilitar la alimentación habitual del vampiro así como la seducción de mortales a efectos narrativos
+    Por norma general cuando un vampiro se alimenta, al mortal le resulta placentero su mordisco, llamado comúnmente Beso, y su mente se nubla, haciéndole difícil recordar exactamente qué ha pasado. Por ello el Beso si se produce algo de violencia suele ser recordado como algún tipo de agresión sexualpor sumisión química.
+    Con este poder el Beso del vampiro produce un éxtasis adictivo que hace a los mortales volver a por más, lo que facilita mucho la no-vida del vampiro.
+    Sin coste.
+    El vampiro puede elegir usar este poder durante la alimentación o no, si lo hace obtiene un punto de carisma por rango de Presencia cuando trate otra vez con el mortal. 
+    El mortal puede intentar resistirse a los encantos del vampiro con una tirada de espíritu a una dificultad igual al dado de Presencia / 2 + 2 (Se calcula igual que la parada o la dureza).
+    Si el mortal consigue resistirse 3 semanas (1 tirada proteje una semana) seguidas, supera la adicción.
+    A efectos de narración cuando se quiere solucionar una alimentación de forma rápida, este poder otorga ventaja en las tiradas de Callejeo o Supervivencia para encontrar presas de las que alimentarse.
+        Con Presencia d10+, otorga Gran Ventaja
+    Duración: A voluntad del vampiro y hasta que se resista con éxito.

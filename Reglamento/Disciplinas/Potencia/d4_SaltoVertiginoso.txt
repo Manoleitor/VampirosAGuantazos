@@ -1,0 +1,7 @@
+· Salto Vertiginoso
+    Requisitos: Potencia d4+
+    Sin Coste
+    El vampiro puede saltar en carrerilla 3m por Rango de potencia en vertical (Lo que equivale a un piso) y 5m en horizontal (lo que equivale a un coche grande)
+        En Rango d4 - Se llega al techo de una casa de un piso de alto de un salto. De largo da para saltar un coche con holgura, lo que tampoco es tanto
+        En Rango d12 - Llegas a la azotea de un bloque de 5 pisos, de largo sigue sin ser mucho, 25m, lo que vienen a ser 5 o 6 coches aparcados en línea
+    Duración: Pasiva

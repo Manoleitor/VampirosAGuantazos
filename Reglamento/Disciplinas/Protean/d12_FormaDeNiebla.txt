@@ -1,0 +1,7 @@
+· Forma de Niebla
+    Requisitos: Protean d12+
+    El vampiro se convierte en niebla, que es perfectamente visible pero intocable por cualquier cossa menos el fuego, la luz del sol o ataques sobrenaturales.
+    Los vientos pueden sacudir la niebla, pero ninguna fuerza natural puede dispersar la nube, que puede colarse por tuberías y demás
+    Coste: 1 Peaje, y la transformación lleva 3 turnos. Se puede acelerar el proceso pagando un Peaje adicional por cada turno que se quiera suprimir
+    No se requiere tirada. La transformación lleva tres turnos completos, pero se puede acelerar el proceso pagando más Peajes (uno por turno recortado)
+    Duración: 1 Escena a menos que uno quiera terminar antes.

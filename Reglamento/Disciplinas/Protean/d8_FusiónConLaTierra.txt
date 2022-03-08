@@ -1,0 +1,8 @@
+· Fusión con la Tierra
+    Requisitos: Protean d8+
+    El vampiro se hace uno con el suelo, si este es tierra natural
+    Coste: 1 Peaje
+    Mientras está en este estado el vampiro es consciente de su entorno, salvo durante su sueño diurno, del que puede despertarse como cualquier otro vampiro
+    Duración: 1 día o más, o hasta que sea despeertado
+
+    // Un clásico del protean de toda la vida

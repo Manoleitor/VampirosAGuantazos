@@ -1,0 +1,7 @@
+Las Disciplinas son las ramas de los Poderes vampíricos.
+Para aprender un Poder se debe obtener un Rango nuevo en una Disciplina y luego elegir un Poder de dicha disciplina que cumpla los requisitos.
+Cada Disciplina posee un Rasgo Asociado. 
+Cada clan posee una Disciplinas características, las llamadas Disciplinas de Clan
+Avanzar un Rango en una disciplina cuesta un avance hasta el valor de la característica asociada en cualquier Disciplina de Clan,
+    y dos avances a partir de ahí.
+Avanzar en una Disciplina que no es de clan siempre cuesta dos avances.

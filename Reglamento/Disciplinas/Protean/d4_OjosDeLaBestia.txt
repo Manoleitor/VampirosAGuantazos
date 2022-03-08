@@ -1,0 +1,7 @@
+· Ojos de la Bestia
+    Requisitos: Protean d4+
+    El vampiro genera un brillo en los ojos que le permiten ver en la oscuridad
+    Sin Coste
+    Mientras el poder esté activo el vampiro descarta de antemano todas desventaja y gran desventaja producida por falta de luz.
+    Además su mirada otorga ventaja en la intimidación de mortales.
+    Duración: A Voluntad.

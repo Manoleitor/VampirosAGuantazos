@@ -1,0 +1,11 @@
+· Cambiar de Forma
+    Requisitos: Protean d8+
+    El Vampiro puede asumir la forma de un animal más o menos de su masa original.
+    Solamente puede transformarse en un tipo concreto de animal, normalmente asociado a su clan o alimentación.
+    El animal luce como un ejemplar espectacular de su especie, pero no como para se tomado por un ser sobrenatural ante un observador casual.
+    Coste: 1 Peaje
+    La transformación requiere un turno durante el cual el vampiro no puede realizar ninguna otra acción
+    Tras la transformación el vampiro adquiere los atributos físicos y sentidos y habilidades de su nueva forma.
+    En la nueva forma hay cosas que no se pueden hacer, como hechicería de sangre.
+    Este Poder se puede comprar varias veces para añadir formas de animales adicionales
+    Duración: 1 Escena

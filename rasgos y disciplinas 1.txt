@@ -678,7 +678,8 @@ Disciplinas
 			El interior del vampiro se vuelve viscoso, haciendo su corazón difícil de empalar.
 			Sin Coste
 			Otorga Gran desventaja al intentar empalar el corazón con una estaca
-			Incluso con el corazón empalado puede hacer una tirada de Fuerza con Gran Desventaja una vez por hora. Si se supera una tirada de Espíritu con Gran desventaja primero la tirada de fuerza se realiza solo con desventaja simple.
+			Incluso con el corazón empalado, el vampiro puede pagar un Peaje y hacer una tirada de Espíritu con desventaja seguida de otra de Fuerza con Gran Desventaja para expulsar la estaca. 
+				En caso de fallar, puede repetir la tirada una vez por hora.
 			No se puede intentar la expulsión estando famélico.
 			Duración: Pasiva
 			

@@ -1,1 +1,5 @@
 Protean
+    Protean provee a los vampiros la capacidad de mutar sus cuerpos obteniendo ventajas, como garras, o ver en la oscuridad o también convertirse en animales, como lobos, serpiente y murciélagos
+    Tipo: Físico
+    Riesgo para la Mascarada: Alto, convertirse en lobo terrible en mitad de una avenida y echarse a andar pinta mal.
+    Característica asociada: Vigor

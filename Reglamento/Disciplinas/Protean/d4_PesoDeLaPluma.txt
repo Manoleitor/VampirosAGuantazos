@@ -1,0 +1,9 @@
+· Peso de la Pluma
+    Requisitos: Protean d4+
+    El vampiro reduce su densidad para evitar daño por caídas choques o ser arrojado.
+    No permite saltar más
+    Sin Coste.
+    Tirada de Supervivencia
+    Si el vampiro tiene tiempo de prepararse no se necesita tirada.
+    Mientras el poder esté activo el vampiro no subre daño por caídas o lanzamientos y no activa placas de presión.
+    Duración: A Voluntad.

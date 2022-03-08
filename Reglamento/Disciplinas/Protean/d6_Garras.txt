@@ -1,0 +1,10 @@
+· Garras
+    Requisitos: Protean d6+
+    Al vampiro le surgen garras retorcidas o puede que colmillos de jabalí.
+    Coste: 1 Peaje
+    Cuando se activa el vampiro pasa a considerarse armado con un arma que hace Fue mas d6. 
+        En caso de hacer ya d4 con las manos desnudas, como seria el caso de alguien con la Ventaja Artista Marcial, auenta el dado de daño en un paso.
+    Las garras tienen PA 2
+    Duración: 1 Escena
+
+    //Pues acabo de ver que las Garras no hacen daño agravado a vampiros, con lo que los poderes de Potencia que hacen daño agravado son más cañeros

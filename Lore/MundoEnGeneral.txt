@@ -7,7 +7,7 @@ Con la llegada el s. XVIII, llegan a las sociedades humanas primero y a la vamp�
         Con el tiempo a todo vampiro que se negase a formar parte de buena gana de esta organización feudal se le consideró anarquista. Con el tiempo estos anarquistas acabaron formando de facto su propia facción., los anarquistas
 
 Los principales clanes que todavía existen son:
-    · Camarilla
+    · En la facción Camarilla
         Ventrue, un clan de líderes ambiciosos con un fuerte sentido de la jerarquía. Son los líderes de facto de la Camarilla.    
         Toreador, artistas y estetas forman parte de la camarilla desde siempre.
         Malkavian, vampiros aquejados por la locura.
@@ -16,10 +16,10 @@ Los principales clanes que todavía existen son:
         Hijos de Set, dedicados a extender y aprovecharse de la corrupción moral desde los tiempos del antiguo Egipto
         Assamitas, procedentes de oriente medio solían ser enemigos acerrimos de los clanes que forman la Camarilla pero ahora están negociando su incorporación a la facción
 
-    · Anarquistas
+    · En la facción Anarquista
         Brujah, guerreros apasionados y antiguamente también filósofos. Líderes de facto de los Anarquistas.
         Gangrel, cercanos a la vida animal, prefieren la vida salvaje a la urbanita. El clan entero abandonó la Camarilla oficialmente junto a los Brujah, desencantados y diezmados después de una guerra en favor de la Camarilla.
-        Los Sangre Débil, aquejados solo de un vampirismo débil algunos todavía pueden ver la luz del sol. Despreciados por la Camarilla, solo les quedan los Anarquistas.
+        Los Sangre Débil, aquejados solo de un vampirismo pobre, algunos todavía pueden ver la luz del sol. Despreciados por la Camarilla, solo les quedan los Anarquistas para ser alguien.
         Y cualquier vampiro que ya no quiera formar parte de la Camarilla, o que nunca haya querido hacerlo, entre ellos algunos clanes menos conocidos.
 
 //TODO

@@ -100,5 +100,5 @@ Ejemplo de uso:
     // Parece que el resultado final depende mucho de quién tome la iniciativa
     // El Frenesí parece fácil de aguantar. Si se sube la dificultad básica a 6, es difícil de aguantar para alguien con espíritu d6, y si tiene Fortaleza Mental todavía tiene que sacar un 4 normal
     // Si hay que nerfear el Poder se puede otorgar una tirada de espíritu a la víctima que se de cuenta de que está siendo objeto de un poder de Presencia, porque lo conoce gracias a que ella misma lo posee, sus conocimiento en Ocultimo o Vampirismo o su experiencia previa de la que ha sabido aprender.
-    
+        // u otorgar ventaja para resistirlo al que sabe de qué va el poder pq tiene mucha experiencia previa o mucho Ocultismo
     

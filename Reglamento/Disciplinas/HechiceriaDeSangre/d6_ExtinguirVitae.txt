@@ -1,0 +1,6 @@
+·· Extinguir Vitae
+    Requisitos: Hechicería de Sangre d6+
+    El vampiro puede aumentar el ansia de otro vampiro.
+    Coste: 1 Peaje
+    Con una tirada enfrentada de Hechicería contra Vigor de la víctima, el vampiro puede aumentar el ansia de su objetivo en un paso por cada éxito más uno más por aumento.
+    Se puede discenir quien aflije a la víctima con una tirada de ocultismo contra Astucia

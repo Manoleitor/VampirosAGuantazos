@@ -1,0 +1,6 @@
+··· Sangre de potencia
+    Requisitos: Hechicería de Sangre d8+
+    El vampiro puede concentrar su Sangre para aumentar su Potencia de Sangre temporalmente
+    Coste: 1 Peaje por adelantado
+    El vampiro realiza una tirada de Hechicería de Sangre igual al Rango de Potencia de Sangre / 2 + 2 (como si se tratase de calcular la parada o el vigor). Con un éxito aumenta su potencia un paso, dos con un aumento.
+    Duración: 1 Noche

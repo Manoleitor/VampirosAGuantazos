@@ -1,0 +1,8 @@
+· Sabor de la Sangre
+    Requisitos: Hechicería de Sangre d4+
+    Probando una gota se sangre el usuario puede descubrir detalles del donante.			
+    Sin coste
+    Tirada de Hechicería de Sangre. Con un éxito se puede determinar si es humana o de vampiro o de ghoul y la Potencia de Sangre relativa. 
+        Con un aumento revela si el sujeto ha cometido diablerie alguna vez y el rango de Potencia de Sangre exacto. 
+    Si el usuario conoce al tipo de criatura sobrenatural del tipo concreto también puede identificarla con un aumento.
+	Duración: Instantánea

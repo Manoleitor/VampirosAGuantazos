@@ -1,0 +1,6 @@
+· Vitae Corrosiva
+    Requisitos: Hechicería de Sangre d4+
+    El usuario puede volver su sangre corrosiva
+    Coste: 1 Peaje a más
+    Sin tirada
+    Cada control de enardecimiento puede corroer 35 cm de material en 5 minutos. Si se trata de acero o algo parecido solo deja marcas.

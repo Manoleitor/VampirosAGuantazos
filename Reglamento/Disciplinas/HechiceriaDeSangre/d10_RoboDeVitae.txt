@@ -1,0 +1,9 @@
+···· Robo de Vitae
+    Requisitos: Hechicería de Sangre d10+
+    El vampiro hace a distancia una herida en una arteria en un mortal y la sangre derramada viaja espectacularmente hasta el vampiro. 
+    El poder en sí es muy llamativo, pero una vez finalizado no deja rastro.
+    Coste: 1 Peaje
+    Hechicería de sangre contra Conocimiento: Ocultismo
+    La víctima mortal queda sometida por el beso.
+    El usuario puede beber al doble de la velocidad normal, o al triple con un aumento.
+    Duración: 1 Alimentación

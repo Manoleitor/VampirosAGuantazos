@@ -1,0 +1,17 @@
+··· Toque de Escorpión
+    Requisitos: Hechicería de Sangre d8+
+    El vampiro puede transmutar su sangre en un veneno paralizante, que se puede usar también para recubrir armas afiladas
+    El veneno creado incapacita a mortales y obstaculiza a los vampiros, pero sin dejarlos indefensos.
+    Coste: 1 Peaje o más.
+    Tirada enfrentada de Hechicería de Sangre contra Vigor del objetivo.
+    El objetivo obtiene ventaja en la tirada si conoce formas de defensa gracias al Conocimiento: Ocultismo
+    El objetivo obtiene ventaja o Gran ventaja de la disciplina fortaleza, si la posee
+    El vampiro convierte parte de su sangre en veneno que puede exudar por una herida abierta o por la boca, lo que le permite escupirlo
+    Un escupitajo o suficiente veneno para cubrir un arma por cada control de Enardecimiento.
+    Escupir a un enemigo el veneno requiere una tirada de Agilidad.
+    El vampiro puede usarlo cuando está siendo diabolizado.
+    Las puntas de Flecha y las balas no admiten suficiente sangre para admitir este poder.
+    En principio la sangre convertida no dura tanto como para poder ponerse a rellenar balas huecas.
+    En caso de contactar con el enemigo, y superar una tirada enfrentada de Hechicería de Sangre contra Vigor, el veneno hace de daño Hechicería de sangre + Fuerza + d6 por un aumento de haberse logrado.
+    El daño es agravado
+    Duración: El veneno Mantiene su potencia durante una escena

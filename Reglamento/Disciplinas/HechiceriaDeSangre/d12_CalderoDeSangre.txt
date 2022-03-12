@@ -1,0 +1,10 @@
+····· Caldero de Sangre
+    Requisitos: Hechicería de Sangre d12+
+    Espantoso poder que hace hervir la sangre de una víctima en sus propias venas. No es el método más eficiente para matar, pero sí uno de los más crueles.
+    Coste: 1 Peaje (y quedar Atribulado, a menos que seas Mala Gente)
+    Hechicería de Sangre contra Conocimiento: Ocultismo
+    El usuario debe tocar a la víctima con un ataque sin armas. Si logra tocar la piel de la víctima (ataque apuntado si la víctima tiene la piel cubierta) se realiza la tirada de Hechicería vs Ocultismo.
+    Con un éxito se inflige una herida Agravada mas una por aumento.
+    Los mortales extras que reciben una herida así mueren entre gritos
+    Los Vampiros aumentan su ansia un paso por cada punto de daño sufrido.
+    Duración: 1 Ataque

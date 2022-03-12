@@ -1,0 +1,9 @@
+····· Caricia de Baal
+    Requisitos: Hechicería de Sangre d12+
+    El vampiro puede transmutar su sangre en un veneno extremadamente agresivo, letal tanto para mortales como para vampiros
+    Coste: 1 Peaje o más
+    Este Poder tiene el mismo sistema que el Toque del Escorpión, con un daño mayor.
+    En caso de superar una tirada de Hechicería contra ocultismo (bonificado con fortaleza) causa una herida agravada más otra por aumento.
+    El mortal herido muere automáticamente.
+    El vampiro herido debe repetir la tirada cuando se vaya a dormir, si no supera el enfrentamiento entrará en letargo.
+    Duración: El veneno mantiene su potencia durante una escena.

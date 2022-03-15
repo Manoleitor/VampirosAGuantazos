@@ -2,7 +2,7 @@ Fuerza				Fuerza
 Destreza			Agilidad
 Resistencia			Vigor
 Carisma
-Manipulación		Astucia
+Manipulación		     Astucia
 Compostura			Espíritu
 Inteligencia		Astucia
 Astucia				Astucia

@@ -1,0 +1,4 @@
+Los vampiros, salvo los sangre débiles no se curan de forma natural.
+Por un Peaje un vampiro puede curarse 1 herida de daño supeeficial
+Por 3 Peajes se puede curar un herida de daño agravado el siguiente anochecer
+Si al empezar la noche el vampiro intenta cuarse la herida sin lograrlo y alcanza el máximo de ansia, en lugar de en frenesí, entra en letargo

@@ -10,7 +10,7 @@ Resolución			Espíritu
 
 
 Armas de Fuego		Disparar
-Artesanía			Reparar
+Artesanía			Repararhhhhh
 Atletismo			Trepar - Nadar - Agi a secas
 Conducir			Conducir - Pilotar
 Latrocinio			Forzar Cerraduras

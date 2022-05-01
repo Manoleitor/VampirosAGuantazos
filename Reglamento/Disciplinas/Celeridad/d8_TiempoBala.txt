@@ -1,9 +1,0 @@
-· Tiempo Bala
-    El vampiro gana un turno extra inmediatamente después de terminar el actual en la misma ronda.
-    El vampiro realiza una tirada de Celeridad. 
-        Con un éxito en la siguiente ronda al repartir las cartas de iniciativa descarta cualquiera por debajo de un 6.
-        Con un aumento descata cualquier carta que no sea una figura o mejor.
-    El vampiro puede mantener el poder de una ronda para la siguiente símplemente pagando el peaje.
-    Coste: 1 Control de Enardecimiento
-    El valor de parada del objetivo baja a 2
-    Un objetivo con Celeridad d12+ puede contrarrestar este poder al coste de 1 Control de Enardecimiento

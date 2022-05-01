@@ -1,0 +1,9 @@
+· Vuelta Atrás
+    Requisitos: Celeridad d12+
+    La velocidad a la que se mueve el vampiro es tal que le permite reaccionar a los sucesos a su alrrededor en cualquier momento.
+    Coste: 1 Peaje
+    El jugador puede reemplazar la historía contada por el máster dentro de lo razonable, como eludir una emboscada después de que le dispararan o atravesar una puerta antes de que se cierre
+    La acción debe ser razonable y no tardar más de unos pocos segundos de tiempo real
+    Este poder permite romper turno a voluntad a efectos prácticos
+    Un oponente con Celeridad d12+ podría contrarrestar este poder al coste de 1 Peaje en lo que le atañe, a discrección del máster
+    Duración: 1 Turno

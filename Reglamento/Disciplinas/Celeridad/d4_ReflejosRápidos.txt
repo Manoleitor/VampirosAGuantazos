@@ -2,7 +2,6 @@
     Requisitos: Celeridad d4+
     Sin coste
     Convierte acciones simples, como preparar o recargar un arma en acciones gratuítas
-    Se usa parada como defensa para ataques a distancia
     Al repartir cartas de acción el vampiro desecha cualquiera por debajo de 6, como la ventaja "Rápido". 
         Si también es poseedor de la ventaja "Rápido" descarta por debajo de 8 en su lugar.
     Duración: Pasiva

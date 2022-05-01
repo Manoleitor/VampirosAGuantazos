@@ -1,10 +1,13 @@
 · Cuerpo Letal
-    Requisitos: Potencia d4+
     Se pueden causar daños tremendos a los mortales con los puños desnudos
-    <<Los ataques sin armas del usuario ahora pueden causar daño agravado a la Salud de los mortales>>
-    Los ataque sin armas poseen PA igual al número de Rangos de potencia
+    Requisitos: Potencia d4+    
+    Las manos desnudas se consideran armas Fue + 1d4
+    Los ataques sin armas poseen PA igual al número de Rangos de potencia
+    El vampiro siempre se considera armado a la hora de atacar o de defenderse con los puños
     Sin coste
     Duración: Pasiva
 
     //TODO
     //No parece un poder muy fuerte, ni fácil de adaptar, revisar al terminar con la disciplina
+
+    //Primera revisión, añadido

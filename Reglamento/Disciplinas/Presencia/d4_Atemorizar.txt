@@ -2,6 +2,6 @@
     En lugar de atraer a la gente, el vampiro usa su poder para repelerla
     Sin coste.
     Otorga ventaja a cualquier intento de intimidación (no a resistirlo). Al llegar a d10+ de Presencia, otorga Gran Ventaja.
-    Atacar al usuario requiere una tirada de espíritu (habitualmente a dificultad 4).
+    Atacar al usuario, que tenga el poder activo, requiere una tirada de espíritu (habitualmente a dificultad 4).
     Duración: Pasiva, aunque el vampiro puede desactivarla
 			

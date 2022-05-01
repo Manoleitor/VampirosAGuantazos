@@ -2,5 +2,6 @@
     Requisitos: Animalismo d4+, Fortaleza d6+
     El usuario comparte un porción de su dureza sobrenatural con los animales en los que influye
     Coste: Sin coste para el familiar, 1 Peaje para los demás.
-    Los animales influídos adquieren 1 punto de dureza adicional por rango de Fortaleza del vampiro y ventaja en las tiradas de vigor, Gran ventaja con Rango d10+
+    Los animales influídos adquieren 1 punto de dureza adicional por rango de Fortaleza del vampiro
+    Los animales inflídos adquieren ventaja en las tiradas de rasgo para poner a prueba su resistencia física, Gran ventaja con Rango d10+
     Duración: 1 Escena

@@ -1,13 +1,9 @@
 · Mirada Aterradora
     Requisitos: Presencia d8+
-    El vampiro expone brevemente su naturaleza vampírica infundiendo un terror a su víctima. 
-    Los mortales se acobarda, corren o se congelan de miedo.
-    Los vampiros se someten como perros apaleados o sufren el Frenesí cobarde.
+    Funciona como el poder Miedo(p. 244), salvo que la tirada es enfrentada.
     Coste: 1 Peaje.
+    Tirada enfrentada de Presencia vs Espíritu.
+    Se aplican los bonificadores propios a un truco de intimidar. se puede aplicar la ventaja osado
+    Con Presencia d10+ se puede usar en una plantilla de área mediana.
     Presencia vs Espíritu.
-    Se aplican bonos de Carisma a la tirada.
-    Con un fallo los mortales solo pueden retroceder y actuar en defensa propia, mientras que los vampiros no se ven afectados.
-    Con un éxito los mortales huyen aterrorizados. Los vampiros huyen como hacen los mortales en caso de fallo. a menos que se gasten un beni para realizar una tirada de espíritu para aguantar un turno más otro por cada punto de margen de victoria
-    Con un aumento los mortales quedan totalmente derrotados y paralizados de miedo.
-    Con un aumento los vampiros, además de huir, Frenesí Cobarde.
     Duración: 1 Turno

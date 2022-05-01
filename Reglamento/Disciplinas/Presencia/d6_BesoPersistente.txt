@@ -7,6 +7,6 @@
     El vampiro puede elegir usar este poder durante la alimentación o no, si lo hace obtiene un punto de carisma por rango de Presencia cuando trate otra vez con el mortal. 
     El mortal puede intentar resistirse a los encantos del vampiro con una tirada de espíritu a una dificultad igual al dado de Presencia / 2 + 2 (Se calcula igual que la parada o la dureza).
     Si el mortal consigue resistirse 3 semanas (1 tirada proteje una semana) seguidas, supera la adicción.
-    A efectos de narración cuando se quiere solucionar una alimentación de forma rápida, este poder otorga ventaja en las tiradas de Callejeo o Supervivencia para encontrar presas de las que alimentarse.
+    A efectos de narración cuando se quiere solucionar una alimentación de forma rápida, este poder otorga ventaja en las tiradas de Supervivencia para encontrar presas de las que alimentarse.
         Con Presencia d10+, otorga Gran Ventaja
     Duración: A voluntad del vampiro y hasta que se resista con éxito.

@@ -1,5 +1,6 @@
 · Fortificar la Fachada Interior
     Proteje la mente del vampiro de intrusiones sobrenaturales
     Requisitos: Fortaleza d10+, Resistencia Mental
-    Aplica un Gran desventaja cualquier intento de escuadriñar o influir en su mente
+    Otorga Ventaja Extrema para resistir efectos mentales como los cubiertos por Resistencia Mental
+    Impone Gran desventaja a los intentos de escudriñar la mente del vampiro con, por ejemplo, auxpex 
     Duración: 1 Escena

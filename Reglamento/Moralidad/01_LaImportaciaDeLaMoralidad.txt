@@ -1,0 +1,12 @@
+La moralidad de los vampiros mide su comportamiento ordinario y su calidad como "seres humanos", y se mide por el valor de la Humanidad del personaje o de su contrario, de la Bestia.
+En la configuración actual los rangos son:
+
+unskilled       Buena Gente
+#       d4      Normal
+##      d6      Cínico
+###     d8      Mala Gente
+####    d10     Degenerado
+#####   d12     Monstruoso
+######  d12+1   Frenesí perpetuo y perdido en la Bestia
+
+Cuando se alcanza el último nivel de la bestia, el personaje entra en un frenesí perpetuo volviéndose injugable

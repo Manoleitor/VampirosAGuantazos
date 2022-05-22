@@ -2,7 +2,10 @@
     Requisitos: Celeridad d4+
     El vampiro gana un gran equilibrio y elegancia
     Sin coste
-    Éxito automático en tiradas de atletismo para mantener el equilibrio. 
-    Otorga ventaja en tiradas de atletismo.
-    Si el vampiro tiene la ventaja acróbata, otorga Gran ventaja.
+    Otorga la ventaja "Acróbata". 
+        Si además posee la ventaja "Acróbata", otorga "Acróbata Marcial".
+    Otorga "Parkour"
+    Con celeridad d10+ 
+        Otorga "Piés Ligeros",
+            
     Duración: Pasiva

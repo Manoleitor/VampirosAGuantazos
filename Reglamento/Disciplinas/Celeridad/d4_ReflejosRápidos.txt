@@ -1,7 +1,10 @@
 · Reflejos Rápidos (Vampíricos)
     Requisitos: Celeridad d4+
     Sin coste
-    Convierte acciones simples, como preparar o recargar un arma en acciones gratuítas
-    Al repartir cartas de acción el vampiro desecha cualquiera por debajo de 6, como la ventaja "Rápido". 
-        Si también es poseedor de la ventaja "Rápido" descarta por debajo de 8 en su lugar.
+    Convierte una acción simple, como preparar o recargar un arma en una acción gratuíta.
+        En caso de que se necesite una tirada de atletismo para realizar la acción, la tirada se hace con ventaja.
+    Otorga la ventaja "Rápido". 
+        Si también es poseedor de la ventaja "Rápido" descarta por debajo de 7 en su lugar.
+    Con celeridad d10+
+        Otorga "Ataque Repentino"
     Duración: Pasiva

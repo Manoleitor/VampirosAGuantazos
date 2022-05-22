@@ -1,6 +1,7 @@
 · Puntería Certera
     Requisito: Auxpex d10+
     Coste: 1 Peaje
-    El vampiro puede disparar como si hubiese estado apuntando e ignora cobertura y modificadores por movimiento
+    Otorga "Disparo Rápido Mejorado"
+    Otorga "Disparo Mortal"
     Si el objetivo posee Celeridad d12+ puede cancelar ignorar este poder con 1 Peaje
     Duración: Un turno

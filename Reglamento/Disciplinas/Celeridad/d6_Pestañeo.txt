@@ -1,0 +1,10 @@
+· Pestañeo
+    El vampiro puede acercarse o alejarse de un enemigo a la velocidad de un pestañeo
+    Coste: 1 Peaje
+    El vampiro puede cubrir 150 piés (30 casillas) en línea recta sin gastar acción, solo con su movimiento.
+    Si el terreno es peligroso o hay que esquivar obstáculos, se precisa prueba de Atletismo.
+    Otorga ventaja al atacar a un enemigo que se encontrase más allá del rango de ataque cuerpo a cuerpo normalmente (más alla de 12 a 16 casillas). 
+        Otorga Gran ventaja con Celeridad d10+
+    También se puede usar para correr verticalmente o sobre el agua pasando una prueba de Celeridad. 
+        Con un aumento se pueden correr 40 casillas sobre el agua o 30 pisos verticalmente.
+    Duración: 1 turno

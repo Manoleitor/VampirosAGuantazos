@@ -1,7 +1,0 @@
-· Presteza
-    Requisitos: Presteza d6
-    Moverse y reaccionar a una velocidad vertiginosa
-    Coste: 1 Peaje
-    Equivale a poder Rapidez (p. 241) con la opción velocidad para uso personal
-    (doble de movimiento incluído dado de carrera, eliminación del penalizador -2 por correr y de un penalizador de -2 por multiacción )
-    Duración: 1 Turno
